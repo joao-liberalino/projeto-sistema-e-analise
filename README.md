@@ -21,7 +21,8 @@ Este projeto é uma solução completa para coleta, tratamento e visualização 
 4. O Dashboard consome esses dados e atualiza os gráficos automaticamente.
 
 ## 📸 Demonstração
-![Screenshot do Dashboard](<img width="1919" height="1028" alt="Captura de tela 2026-02-02 185951" src="https://github.com/user-attachments/assets/6add6a63-b615-48a5-9c3e-8e3832a878f4" />
+![Screenshot do Dashboard](<img width="1919" height="1028" alt="image" src="https://github.com/user-attachments/assets/1432826b-ca67-4a58-9394-6adb5ca19e72" />
+
 )
 
 ---
