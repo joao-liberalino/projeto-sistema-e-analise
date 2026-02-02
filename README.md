@@ -1,5 +1,5 @@
 # projeto-sistema-e-analise
-Projeto feito para estudo, onde criei um sistema de cadastro, conectado ao execel e power bi onde os dados cadastrados são atualizados automaticamente e inseridos em um dashbord feito atraves do power bi onde juntamente esta feito toda a analise dos dados  
+Projeto feito para estudo, onde criei um sistema de cadastro, conectado ao excel e power bi onde os dados cadastrados são atualizados automaticamente e inseridos em um dashbord feito atraves do power bi onde juntamente esta feito toda a analise dos dados  
 # 📊 Sistema de Cadastro com Dashboard Integrado
 
 Este projeto é uma solução completa para coleta, tratamento e visualização de dados. Ele permite que usuários realizem cadastros de forma intuitiva, enquanto os dados são processados automaticamente em uma planilha para gerar insights em tempo real através de um dashboard.
@@ -11,7 +11,7 @@ Este projeto é uma solução completa para coleta, tratamento e visualização 
 
 ## 🛠️ Tecnologias
 - **Frontend:** [Python Biblioteca "tkinter"]
-- **Banco de Dados/Processamento:** [Execel, Power BI]
+- **Banco de Dados/Processamento:** [Excel, Power BI]
 - **Visualização:** [ Power BI]
 
 ## 📋 Como funciona o fluxo?
